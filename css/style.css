@@ -147,7 +147,7 @@ body {
 
 /* Responsive design media queries */
 /* The styles below are taking priority over the styles mentioned above when the window size is smaller then 768px (In case of tablet and mobile devices).  */
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
   body {
     padding: 30px;
     padding-bottom: 20px;
@@ -163,5 +163,5 @@ body {
   }
   .popup-content {
     width: 90%;
-  }
+  } 
 } */
